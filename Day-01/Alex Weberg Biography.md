@@ -24,7 +24,7 @@ Alex Weberg Biography
 
 * I am working towards a chemistry major and a math minor
 * I run on the cross-country and track teams at Macalester [Cross Country Hompage](http://athletics.macalester.edu/index.aspx?path=mcross&tab=crosscountry2)
-* I play in the Macalester Orchestra
+* I play the cello in the Macalester Orchestra
 
 
 ### Future Plans/Goals
