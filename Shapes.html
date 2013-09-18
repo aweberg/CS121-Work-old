@@ -141,7 +141,11 @@ hr {
 </head>
 
 <body>
-<p>clear</p>
+<p>plot(1:2,type=&ldquo;n&rdquo;,xlim=c(1,100),ylim=c(1,100),xlab=&ldquo;&rdquo;,ylab=&ldquo;&rdquo;)
+angles&lt;-seq(0,2*pi,length=1000)
+polygon(50+30*cos(angles),45+30*sin(angles),col=&ldquo;#ABC7FF&rdquo;,border=&ldquo;NA&rdquo;)
+polygon(25+15*cos(angles),65+25*sin(angles),col=&ldquo;#CC99FF99&rdquo;,border=&ldquo;NA&rdquo;)
+polygon(c(70,90,95,80,65),c(50,50,65,80,65),col=&ldquo;#FFFF0099&rdquo;,border=&ldquo;NA&rdquo;)</p>
 
 </body>
 
